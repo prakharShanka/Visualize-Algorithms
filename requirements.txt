@@ -1,0 +1,5 @@
+# Python Dependencies
+matplotlib
+networkx
+numpy
+PyQt5
